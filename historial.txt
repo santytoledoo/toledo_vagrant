@@ -1,0 +1,32 @@
+    1  ~~
+    2  vagrant up
+    3  vagrant close
+    4  ls
+    5  whoami
+    6  pwd
+    7  man man
+    8  ls -la
+    9  echo hola
+   10  echo "hola"
+   11  ls
+   12  https://github.com/santytoledoo/toledo_vagrant.git
+   13  cd https://github.com/santytoledoo/toledo_vagrant.git
+   14  ..
+   15  cd ..
+   16  cd https://github.com/santytoledoo/toledo_vagrant.git
+   17  git clone 
+   18  git clone https://github.com/santytoledoo/toledo_vagrant.git
+   19  cat readme
+   20  cat read me
+   21  ls
+   22  ls -la
+   23  cd repogit/
+   24  ls
+   25  clear
+   26  ls
+   27  git clone git@github.com:santytoledoo/toledo_vagrant.git
+   28  ls
+   29  cd toledo_vagrant/
+   30  ls
+   31  history
+   32  history > historial.txt
